@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683742551 source:c:\users\user\desktop\test\test arbre\ex1.c
+	"ex1.h"
+
+1683740922 c:\users\user\desktop\test\test arbre\ex1.h
+	<stdio.h>
+	<stdlib.h>
+
